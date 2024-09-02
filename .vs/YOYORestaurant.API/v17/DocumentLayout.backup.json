@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sameer\\source\\repos\\YOYORestaurant.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCAFC3E-D0D2-429F-8AD6-5A5C22DBE936}|YOYORestaurant.API\\YOYORestaurant.API.csproj|c:\\users\\sameer\\source\\repos\\yoyorestaurant.api\\yoyorestaurant.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCAFC3E-D0D2-429F-8AD6-5A5C22DBE936}|YOYORestaurant.API\\YOYORestaurant.API.csproj|solutionrelative:yoyorestaurant.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCAFC3E-D0D2-429F-8AD6-5A5C22DBE936}|YOYORestaurant.API\\YOYORestaurant.API.csproj|c:\\users\\sameer\\source\\repos\\yoyorestaurant.api\\yoyorestaurant.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCAFC3E-D0D2-429F-8AD6-5A5C22DBE936}|YOYORestaurant.API\\YOYORestaurant.API.csproj|solutionrelative:yoyorestaurant.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DCAFC3E-D0D2-429F-8AD6-5A5C22DBE936}|YOYORestaurant.API\\YOYORestaurant.API.csproj|c:\\users\\sameer\\source\\repos\\yoyorestaurant.api\\yoyorestaurant.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DCAFC3E-D0D2-429F-8AD6-5A5C22DBE936}|YOYORestaurant.API\\YOYORestaurant.API.csproj|solutionrelative:yoyorestaurant.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sameer\\source\\repos\\YOYORestaurant.API\\YOYORestaurant.API\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "YOYORestaurant.API\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Sameer\\source\\repos\\YOYORestaurant.API\\YOYORestaurant.API\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "YOYORestaurant.API\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:50:46.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Sameer\\source\\repos\\YOYORestaurant.API\\YOYORestaurant.API\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "YOYORestaurant.API\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Sameer\\source\\repos\\YOYORestaurant.API\\YOYORestaurant.API\\Models\\Customer.cs",
+              "RelativeToolTip": "YOYORestaurant.API\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:41:29.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sameer\\source\\repos\\YOYORestaurant.API\\YOYORestaurant.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "YOYORestaurant.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sameer\\source\\repos\\YOYORestaurant.API\\YOYORestaurant.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "YOYORestaurant.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:37:35.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
